@@ -64,8 +64,6 @@
                 <version>3.11.0</version>
                 <configuration>
                   <release>17</release>
-                    <source>${java.version}</source>
-                    <target>${java.version}</target>
                 </configuration>
             </plugin>
 
